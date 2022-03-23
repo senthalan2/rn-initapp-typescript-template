@@ -3,6 +3,9 @@ module.exports = {
   // package.json, index.json, android/, ios/
   placeholderName: "initialprojecttemplate",
 
+  // Placeholder title that will be replaced in values.xml and Info.plist with title provided by the user.
+  titlePlaceholder: "initialprojecttemplate",
+
   // Directory with template
   templateDir: "./template",
 
