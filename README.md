@@ -36,8 +36,8 @@ React Native Project using Typescript. This Template includes SplashScreen, Cust
   
   Drop the custom font family files (.ttf) into the ```assets/fonts``` directory under your project root directory ( shown in below image ).
   
-  ![Screenshot 3](https://user-images.githubusercontent.com/43330632/160223350-21284c7a-adfb-4411-9f85-da93c7833693.png)
-  
+  ![Screenshot 3](https://user-images.githubusercontent.com/43330632/160229318-4697da28-a5ea-471b-83ad-c3896e4e4353.png)
+
   After the above step, run the below command to link the assets with android and ios.
   
     npx react-native link
