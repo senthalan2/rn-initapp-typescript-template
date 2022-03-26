@@ -7,7 +7,12 @@ import {ROBOTO} from '../Utilities/GlobalFonts';
 const Home = ({navigation, route}: HomeScreenParams) => {
   return (
     <>
-      <CustomHeader paddingHorizontal={15} title="Home" enableBack={false} />
+      <CustomHeader
+        paddingHorizontal={15}
+        title="Home"
+        enableBack={false}
+        enableMenu
+      />
       <View style={styles.mainContainer}>
         <Text style={{fontFamily: ROBOTO[0]}}>Home Screen</Text>
       </View>
