@@ -1,6 +1,21 @@
 # rn-initapp-typescript-template
 React Native Project using Typescript. This Template includes SplashScreen Setup, Custom Statusbar Setup, Custom Header, Custom TextBox , Custom Font Family Setup, Redux Setup, Axios Call Setup, Reanimated for Animations, SVG Setup, Stack navigations, Tab and Custom Drawer Navigations Setup. 
 
+## In-Built Packages
+
+#### 1.  react-native-splash-screen
+#### 2.  react-native-svg
+#### 3.  react-redux
+#### 4.  redux
+#### 5.  react-native-screens
+#### 6.  react-native-safe-area-context
+#### 7.  react-native-reanimated
+#### 8.  react-native-gesture-handler
+#### 9.  axios
+#### 10. @react-navigation/native
+#### 11. @react-navigation/native-stack
+#### 12. @react-navigation/drawer
+#### 13. @react-navigation/bottom-tabs
 
 ## Installation
 
