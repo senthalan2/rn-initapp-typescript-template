@@ -48,7 +48,7 @@ React Native Project using Typescript. This Template includes SplashScreen, Cust
   
   Add the Font family name in ```Src/Utilities/GlobalFonts.js``` ( Refer below image ).
   
-  ![Screenshot 4](https://user-images.githubusercontent.com/43330632/160224862-a9bb483c-e956-4387-b0cd-c25ab8f58a0a.png)
+  ![Screenshot 4](https://user-images.githubusercontent.com/43330632/160229381-1d352fa7-25b2-4d7d-9f90-e1bac30c238c.png)
 
   Import and Use the fonts wherever you want. ( Refer below image ).
   
