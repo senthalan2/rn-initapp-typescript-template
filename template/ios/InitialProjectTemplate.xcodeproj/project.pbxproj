@@ -38,6 +38,7 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = InitialProjectTemplate/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = InitialProjectTemplate/main.m; sourceTree = "<group>"; };
 		1D0AE47A65C8663E3B452821 /* Pods-InitialProjectTemplate-InitialProjectTemplateTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InitialProjectTemplate-InitialProjectTemplateTests.release.xcconfig"; path = "Target Support Files/Pods-InitialProjectTemplate-InitialProjectTemplateTests/Pods-InitialProjectTemplate-InitialProjectTemplateTests.release.xcconfig"; sourceTree = "<group>"; };
+		284BC36851864B1B829DE7BE /* Roboto-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Regular.ttf"; path = "../assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; };
 		6423831EA8574132BED9D8CC /* libPods-InitialProjectTemplate.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-InitialProjectTemplate.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C97AB639B58BBB4B15BBE30 /* Pods-InitialProjectTemplate-InitialProjectTemplateTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InitialProjectTemplate-InitialProjectTemplateTests.debug.xcconfig"; path = "Target Support Files/Pods-InitialProjectTemplate-InitialProjectTemplateTests/Pods-InitialProjectTemplate-InitialProjectTemplateTests.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = InitialProjectTemplate/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -45,7 +46,6 @@
 		C0A881CF5CF3F2B244570E2A /* Pods-InitialProjectTemplate.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InitialProjectTemplate.debug.xcconfig"; path = "Target Support Files/Pods-InitialProjectTemplate/Pods-InitialProjectTemplate.debug.xcconfig"; sourceTree = "<group>"; };
 		D00AAFFCFCFDA5787532823F /* Pods-InitialProjectTemplate.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InitialProjectTemplate.release.xcconfig"; path = "Target Support Files/Pods-InitialProjectTemplate/Pods-InitialProjectTemplate.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		284BC36851864B1B829DE7BE /* Roboto-Regular.ttf */ = {isa = PBXFileReference; name = "Roboto-Regular.ttf"; path = "../assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +140,15 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		B9CE5709C46748F1BA0B020A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				284BC36851864B1B829DE7BE /* Roboto-Regular.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		E233CBF5F47BEE60B243DCF8 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -150,15 +159,6 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
-		};
-		B9CE5709C46748F1BA0B020A /* Resources */ = {
-			isa = "PBXGroup";
-			children = (
-				284BC36851864B1B829DE7BE /* Roboto-Regular.ttf */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 
