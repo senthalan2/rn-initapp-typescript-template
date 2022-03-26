@@ -52,4 +52,5 @@ React Native Project using Typescript. This Template includes SplashScreen, Cust
 
   Import and Use the fonts wherever you want. ( Refer below image ).
   
-  ![Screenshot 5](https://user-images.githubusercontent.com/43330632/160224962-3ac80311-acf7-4917-a752-56faf3776a4e.png)
+  ![Screenshot 5](https://user-images.githubusercontent.com/43330632/160229441-d9b652b8-b11d-4ae3-a4f8-00df03101fe2.png)
+
