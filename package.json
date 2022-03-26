@@ -1,7 +1,7 @@
 {
   "name": "rn-initapp-typescript-template",
-  "version": "0.0.1",
-  "description": "Initial React Native Project Template",
+  "version": "0.0.2",
+  "description": "React Native Project using Typescript. This Template includes SplashScreen Setup, Custom Statusbar Setup, Custom Header, Custom TextBox , Custom Font Family Setup, Redux Setup, Axios Call Setup, Reanimated for Animations, SVG Setup, Stack navigations, Tab and Custom Drawer Navigations Setup",
   "repository": "https://github.com/senthalan2/rn-initapp-typescript-template.git",
   "author": "Senthalan",
   "license": "MIT"
