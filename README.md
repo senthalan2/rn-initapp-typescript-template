@@ -4,18 +4,19 @@ React Native Project using Typescript. This Template includes SplashScreen Setup
 ## In-Built Packages
 
 #### 1.  [react-native-splash-screen](https://www.npmjs.com/package/react-native-splash-screen)
-#### 2.  react-native-svg
-#### 3.  react-redux
-#### 4.  redux
-#### 5.  react-native-screens
-#### 6.  react-native-safe-area-context
-#### 7.  react-native-reanimated
-#### 8.  react-native-gesture-handler
-#### 9.  axios
-#### 10. @react-navigation/native
-#### 11. @react-navigation/native-stack
-#### 12. @react-navigation/drawer
-#### 13. @react-navigation/bottom-tabs
+#### 2.  [react-native-svg](https://www.npmjs.com/package/react-native-svg)
+#### 3.  [react-native-svg-transformer](https://www.npmjs.com/package/react-native-svg-transformer)
+#### 4.  [react-redux](https://www.npmjs.com/package/react-redux)
+#### 5.  [redux](https://www.npmjs.com/package/redux)
+#### 6.  [axios](https://axios-http.com/)
+#### 7.  [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/)
+#### 8.  [react-native-gesture-handler](https://docs.swmansion.com/react-native-gesture-handler/)
+#### 9.  [@react-navigation/native](https://reactnavigation.org/)
+#### 10.  [react-native-screens](https://www.npmjs.com/package/react-native-screens)
+#### 11. [react-native-safe-area-context](https://www.npmjs.com/package/react-native-safe-area-context)
+#### 12. [@react-navigation/native-stack](https://reactnavigation.org/docs/native-stack-navigator/)
+#### 13. [@react-navigation/drawer](https://reactnavigation.org/docs/drawer-based-navigation/)
+#### 14. [@react-navigation/bottom-tabs](https://reactnavigation.org/docs/bottom-tab-navigator/)
 
 ## Installation
 
