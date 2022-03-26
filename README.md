@@ -3,7 +3,7 @@ React Native Project using Typescript. This Template includes SplashScreen Setup
 
 ## In-Built Packages
 
-#### 1.  react-native-splash-screen
+#### 1.  [react-native-splash-screen](https://www.npmjs.com/package/react-native-splash-screen)
 #### 2.  react-native-svg
 #### 3.  react-redux
 #### 4.  redux
